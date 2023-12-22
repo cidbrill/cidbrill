@@ -4,9 +4,9 @@
 
 <h1 align="center"> Yo! The name's Cid 👋 </h1>
 
----
+<hr>
 
-##About Me:
+<h2>About Me:</h2>
 
 - 🤓 My name is Cid B. Brillantes, but you can just call me by my first name.
 
@@ -20,7 +20,7 @@
 
 <hr>
 
-##Contact Information:
+<h2>Contact Information:</h2>
 
 If you'd like to get in touch with me, feel free to connect through these platforms.
 
@@ -36,9 +36,9 @@ If you'd like to get in touch with me, feel free to connect through these platfo
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cidbrill)
 
----
+<hr>
 
-##Workspace Knowledge:
+<h2>Workspace Knowledge:</h2>
 
 As I've emphasized in my [About Me](#about-me) section, I'm currently in my second year of college, and I'm still in the process of learning and refining my skills. Here's a glimpse of the programming languages and tools I've encountered so far.
 
@@ -58,9 +58,9 @@ As I've emphasized in my [About Me](#about-me) section, I'm currently in my seco
 
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
+<hr>
 
-##Git Commands Cheatsheet:
+<h2>Git Commands Cheatsheet:</h2>
 
 Here are five Git commands with their descriptions, required parameters, and examples of how to use them, which I have already utilized while learning the basics of Git and GitHub.
 
