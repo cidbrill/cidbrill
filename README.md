@@ -85,3 +85,14 @@ Here are five Git commands with their descriptions, required parameters, and exa
 5. **git pull** - in relation to the git push command, git pull is used to fetch changes from the remote repository and integrate them into the local repository. This process is crucial for maintaining synchronization between your local and remote repositories. The "--rebase" option can be added to the git pull command to rebase your local changes, and it also takes parameters such as &lt;remote&gt; and &lt;branch&gt;. This becomes especially useful when changes have been made to the main branch of your repository while you're in the midst of modifying code, and you need to incorporate your changes. <br>
     **Example:**
     > &gt; git pull --rebase origin main
+
+Furthermore, here are two additional Git Commands that we've utilized.
+
+6. **git branch** - this command involves branch modifications. For example, when you create a new branch using this command, it takes a parameter &lt;branch&gt; which serves as the name of the new branch that will be created. <br>
+    **Example:**
+    > &gt; git branch branch1
+
+7. **git checkout** - this command is used in preparation for working with a branch. It takes a parameter &lt;branch&gt; which activates and switches to the specified branch, allowing the user to perform actions within that branch. <br>
+    **Example:**
+    > &gt; git checkout branch1
+    
