@@ -1,12 +1,10 @@
-<p align="center">
+<p align="center" style="margin-bottom: -15px;">
     <img src="https://scontent.xx.fbcdn.net/v/t39.1997-6/409609634_738382277619150_2219608184342577714_n.webp?_nc_cat=101&ccb=1-7&_nc_sid=ba09c1&_nc_eui2=AeGmsxzKtBDv3YnRt0ZvnyHLciAO_RjDsnxyIA79GMOyfOdD1VhI_5oFAXmIY8-vb7jJ94h3TWB9ZSBxWkCdpmBa&_nc_ohc=gwYN2RSiBusAX9AtHgt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&cb_e2o_trans=q&oh=00_AfAuL23tpw1WJGQjrQ-uXzOsvF2w_89Ov8jS5zIv9CCIhA&oe=658A46DF" alt="cidbrill" width=300>
 </p>
 
-<h1 align="center"> Yo! The name's Cid 👋 </h1>
+<h1 align="center" style="margin-bottom: -15px;"> Yo! The name's Cid 👋 </h1>
 
-<hr>
-
-<h2>About Me:</h2>
+<h3>About Me:</h3>
 
 - 🤓 My name is Cid B. Brillantes, but you can just call me by my first name.
 
@@ -20,7 +18,7 @@
 
 <hr>
 
-<h2>Contact Information:</h2>
+<h3>Contact Information:</h3>
 
 If you'd like to get in touch with me, feel free to connect through these platforms.
 
@@ -38,7 +36,7 @@ If you'd like to get in touch with me, feel free to connect through these platfo
 
 <hr>
 
-<h2>Workspace Knowledge:</h2>
+<h3>Workspace Knowledge:</h3>
 
 As I've emphasized in my [About Me](#about-me) section, I'm currently in my second year of college, and I'm still in the process of learning and refining my skills. Here's a glimpse of the programming languages and tools I've encountered so far.
 
@@ -60,7 +58,7 @@ As I've emphasized in my [About Me](#about-me) section, I'm currently in my seco
 
 <hr>
 
-<h2>Git Commands Cheatsheet:</h2>
+<h3>Git Commands Cheatsheet:</h3>
 
 Here are five Git commands with their descriptions, required parameters, and examples of how to use them, which I have already utilized while learning the basics of Git and GitHub.
 
