@@ -72,8 +72,8 @@ Here are five Git commands with their descriptions, required parameters, and exa
 
 3. **git commit** - as stated previously, files that were added in the *staged changes* area are later saved to the local repository using the git commit command. To simplify this, you can use the "-m" option, which takes a string that serves as a short description for the commitment. <br>
     **Example:**
-    > &gt; git commit -m "Repository Initialization
-    &gt;
+    > &gt; git commit -m "Repository Initialization <br>
+    &gt; <br>
     &gt; Initialized README, LICENSE, and .gitignore files of this repository"
 
     **Note:** Line Breaks/New Lines are placed between the first and the next lines since Git Commit interprets the initial line as the Commit Header and the following lines as the Commit Description.
