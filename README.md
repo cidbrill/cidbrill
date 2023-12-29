@@ -8,13 +8,13 @@
 
 - 🤓 My name is Cid B. Brillantes, but you can just call me by my first name.
 
-- 🧑‍💻 I am currently in my second year at [Mapúa Malayan Colleges Laguna](https://mcl.edu.ph/), pursuing a Bachelor of Science in Information Technology.
+- 🧑‍💻 I am currently in my second year at <a href="https://mcl.edu.ph/" target="_blank">Mapúa Malayan Colleges Laguna</a>, pursuing a Bachelor of Science in Information Technology.
 
 - 🌠 I am hoping to be a Full-Stack Developer or a Data Scientist once I graduate.
 
 - 🎵 My hobbies and interests span a variety of things, but I can confidently say that music holds a central place in my life.
 
-- 🗣️ In addition to my goals, hobbies, and interests, I'm also working on becoming a linguist (with the help of [Duolingo](https://www.duolingo.com/) and other language-learning tools). Right now, I'm in the process of learning Japanese.
+- 🗣️ In addition to my goals, hobbies, and interests, I'm also working on becoming a linguist (with the help of <a href="https://www.duolingo.com/" target="_blank">Duolingo</a> and other language-learning tools). Right now, I'm in the process of learning Japanese.
 
 <hr>
 
