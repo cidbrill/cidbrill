@@ -1,8 +1,6 @@
-<p align="center" style="margin-bottom: -25px;">
-    <img src="https://scontent.xx.fbcdn.net/v/t39.1997-6/409609634_738382277619150_2219608184342577714_n.webp?_nc_cat=101&ccb=1-7&_nc_sid=ba09c1&_nc_eui2=AeGmsxzKtBDv3YnRt0ZvnyHLciAO_RjDsnxyIA79GMOyfOdD1VhI_5oFAXmIY8-vb7jJ94h3TWB9ZSBxWkCdpmBa&_nc_ohc=NBQ38qKih_UAX_bxPlZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&cb_e2o_trans=q&oh=00_AfAt6m6xm3rB6uC87RsPJki6OXdk0Ba1-yAgFcU4SGBGEA&oe=659A18DF" alt="cidbrill" width=300>
-</p>
+<p align="center" style="margin-bottom: -25px;"><img src="assets/cidbrill.gif" alt="cidbrill" width=300></p>
 
-<h1 align="center" style="margin-bottom: -25px;"> Yo! The name's Cid 👋 </h1>
+<h1 align="center" style="margin-bottom: -25px;">Yo! The name's Cid 👋</h1>
 
 <h3>About Me:</h3>
 
