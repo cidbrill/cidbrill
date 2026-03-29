@@ -21,7 +21,7 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
 ---
 
 <h2>💻 Tech Stack</h2>
-<p>Technologies and tools I use to build secure and modern applications.</p>
+<p>Languages and tools I use to build secure and modern applications.</p>
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
 </table>
 
 <h2>🧪 Familiar With</h2>
-<p>Tools and technologies I have explored, particularly in cybersecurity.</p>
+<p>Technologies I have explored, particularly in cybersecurity.</p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
