@@ -39,7 +39,7 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
         <strong>🛠️ Tools</strong>
       </p>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=docker,express,figma,git,kali,mongodb,mysql,nodejs,npm,postman,pr,ps,react,tailwind,visualstudio,vite,vscode&perline=7" />
+        <img src="https://skillicons.dev/icons?i=docker,express,figma,git,mongodb,mysql,nodejs,npm,postman,pr,ps,react,tailwind,visualstudio,vite,vscode&perline=7" />
       </div>
     </td>
     <td></td>
@@ -49,7 +49,7 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
 <h2>🧪 Familiar With</h2>
 <p>Technologies I have explored, particularly in cybersecurity.</p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
