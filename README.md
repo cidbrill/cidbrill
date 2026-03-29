@@ -29,13 +29,13 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
     <td valign="top" width="50%">
       <strong>⌨️ Languages</strong>
       <div align="center" style="margin-top: 10px;">
-        <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,ts,react,tailwind" />
+        <img src="https://skillicons.dev/icons?i=cpp,cs,css,html,js,kotlin,php,py,ts&perline=7" />
       </div>
     </td>
     <td valign="top" width="50%">
       <strong>🛠️ Tools</strong>
       <div align="center" style="margin-top: 10px;">
-        <img src="https://skillicons.dev/icons?i=express,nodejs,mysql,mongodb,git,vscode,visualstudio,pr,ps" />
+        <img src="https://skillicons.dev/icons?i=docker,express,figma,git,kali,mongodb,mysql,nodejs,npm,postman,pr,ps,react,tailwind,visualstudio,vite,vscode&perline=7" />
       </div>
     </td>
     <td></td>
@@ -66,14 +66,6 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
 <h2>💬 Get In Touch</h2>
 <p>I'm open to internship opportunities, collaborations, and tech discussions.</p>
 
-<p>
-  <a href="mailto:iam.cidbrill@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/cidbrill/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/cidbrill">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam.cidbrill@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cidbrill/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cidbrill)
