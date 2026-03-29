@@ -28,14 +28,14 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
     <td></td>
     <td valign="top" width="50%">
       <strong>⌨️ Languages</strong>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,ts,react,tailwind" style="margin-top: 10px;" />
+      <div align="center" style="margin-top: 10px;">
+        <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,ts,react,tailwind" />
       </div>
     </td>
     <td valign="top" width="50%">
       <strong>🛠️ Tools</strong>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=express,nodejs,mysql,mongodb,git,vscode,visualstudio,pr,ps" style="margin-top: 10px;" />
+      <div align="center" style="margin-top: 10px;">
+        <img src="https://skillicons.dev/icons?i=express,nodejs,mysql,mongodb,git,vscode,visualstudio,pr,ps" />
       </div>
     </td>
     <td></td>
@@ -57,8 +57,8 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
 <p>A quick overview of my coding activity, language usage, and contribution streak.</p>
 
 <div align="center">
-  <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cidbrill&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=cidbrill&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
+  <img height="185px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cidbrill&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="185px" src="https://github-readme-streak-stats.herokuapp.com?user=cidbrill&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
 </div>
 
 ---
