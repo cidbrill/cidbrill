@@ -27,13 +27,17 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
   <tr>
     <td></td>
     <td valign="top" width="50%">
-      <strong>⌨️ Languages</strong>
+      <p>
+        <strong>⌨️ Languages</strong>
+      </p>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=cpp,cs,css,html,js,kotlin,php,py,ts&perline=7" />
       </div>
     </td>
     <td valign="top" width="50%">
-      <strong>🛠️ Tools</strong>
+      <p>
+        <strong>🛠️ Tools</strong>
+      </p>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=docker,express,figma,git,kali,mongodb,mysql,nodejs,npm,postman,pr,ps,react,tailwind,visualstudio,vite,vscode&perline=7" />
       </div>
