@@ -28,13 +28,13 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
     <td></td>
     <td valign="top" width="50%">
       <strong>⌨️ Languages</strong>
-      <div align="center" style="margin-top: 10px;">
+      <div align="center">
         <img src="https://skillicons.dev/icons?i=cpp,cs,css,html,js,kotlin,php,py,ts&perline=7" />
       </div>
     </td>
     <td valign="top" width="50%">
       <strong>🛠️ Tools</strong>
-      <div align="center" style="margin-top: 10px;">
+      <div align="center">
         <img src="https://skillicons.dev/icons?i=docker,express,figma,git,kali,mongodb,mysql,nodejs,npm,postman,pr,ps,react,tailwind,visualstudio,vite,vscode&perline=7" />
       </div>
     </td>
@@ -54,7 +54,7 @@ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$  |$$\
 ---
 
 <h2>📈 Git Stats</h2>
-<p>A quick overview of my coding activity, language usage, and contribution streak.</p>
+<p>A quick overview of my top languages used, coding activity, and contribution streak.</p>
 
 <div align="center">
   <img height="185px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cidbrill&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
