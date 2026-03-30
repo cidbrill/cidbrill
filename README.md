@@ -16,7 +16,7 @@
 - 🎓 4th-year BS Information Technology student at Mapúa Malayan Colleges Laguna
 - 🔐 Specializing in Cybersecurity
 - 🌐 Interested in networking, including routing & switching, internet technologies, and network infrastructure
-- 🚀 Aspiring Software Engineer / Network Administrator
+- 🚀 Aspiring Software Engineer / Network Administrator / IT/Cybersecurity Specialist
 
 ---
 
