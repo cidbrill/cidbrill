@@ -58,11 +58,16 @@
 ---
 
 <h2>📈 Git Stats</h2>
-<p>A quick overview of my top languages used, coding activity, and contribution streak.</p>
+<p>A quick overview of the languages I use, my contribution streak, and activity graph.</p>
 
-<div align="center">
-  <img height="185px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cidbrill&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="185px" src="https://github-readme-streak-stats.herokuapp.com?user=cidbrill&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
+<div align="center" style="display: flex; flex-direction: column;">
+  <div>
+    <img height="185px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cidbrill&langs_count=12&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="185px" src="https://streak-stats.demolab.com?user=cidbrill&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  </div>
+  <div>
+    <img height="285px" src="https://github-readme-activity-graph.vercel.app/graph?username=cidbrill&theme=high-contrast&hide_border=true" />
+  </div>
 </div>
 
 ---
