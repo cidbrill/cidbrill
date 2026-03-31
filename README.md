@@ -62,7 +62,7 @@
 
 <div align="center" style="display: flex; flex-direction: column;">
   <div>
-    <img height="185px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cidbrill&count_private=true&hide_border=true&include_all_commits=true&layout=compact&langs_count=8&theme=highcontrast" />
+    <img height="185px" src="https://github-readme-stats-ten-amber-83.vercel.app/api/top-langs/?username=cidbrill&card_width=350&count_private=true&hide_border=true&include_all_commits=true&layout=compact&langs_count=8&theme=highcontrast" />
     <img height="185px" src="https://streak-stats.demolab.com?user=cidbrill&hide_border=true&theme=highcontrast" />
   </div>
   <div>
